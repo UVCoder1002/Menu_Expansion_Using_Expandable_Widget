@@ -1,7 +1,10 @@
 # expandable_medium
 
 Want To Create A Menu Expansion Custom Widget Like The Below One Then You Are At The Right Place!!
+<br>
+<br>
 <img src="https://github.com/UVCoder1002/Menu_Expansion_Using_Expandable_Widget/blob/master/menu_collapsed_view.jpg" width="350" title="Collapsed View">
+<br>
 <br>
 <img src="https://github.com/UVCoder1002/Menu_Expansion_Using_Expandable_Widget/blob/master/menu_expanded_view.jpg" width="350" title="Expanded View">
 
